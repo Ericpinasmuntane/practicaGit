@@ -1,0 +1,3 @@
+$ git branch checkout practica01
+git merge practica01ericpinasmuntane 
+git branch
